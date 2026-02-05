@@ -24,7 +24,7 @@
 Profile on Coding Platforms:
 <br></br>
 <p align="center">
-<a href="https://leetcode.com/u/lqsOpZizJL/" rel="nofollow">Leetcode</a>🏆
+<a href="https://leetcode.com/u/Aayush-Agarwal/" rel="nofollow">Leetcode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/aayushmittal9876" rel="nofollow">Hackerrank</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/profile/aayushmittal9876?tab=activity" rel="nofollow">GeeksForGeeks</a>🏆
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@mkhan31995" rel="nofollow">Hackerearth</a>🏆 -->
