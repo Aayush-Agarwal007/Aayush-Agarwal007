@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Agarwal</h1>
-<h3 align="center">B.Tech student passionate about continuous learning and acquiring new skills.</h3>
+<h3 align="center">B.Tech student in Robotics & AI | Aspiring Software Engineer | Interested in DSA, AI/ML, and Application Development</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif">
 
-- 🌱 I’m currently learning **Javascript ,Java, Flutter**
+- 🌱 I’m currently learning **Machine- ,Java, Flutter**
 
 - 📫 How to reach me **Aayushmittal9876@gmail.com**
 
