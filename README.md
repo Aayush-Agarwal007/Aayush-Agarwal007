@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aayush Agarwal</h1>
+<p align="center">
+  <!-- Animated typing title -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Aayush+Agarwal;Software+Engineer+%E2%9A%80%EF%B8%8F+CPP+%7C+Java+%7C+React+%7C+python" alt="typing">
+</p>
+
+<p align="center">
+  <!-- Neon style small subtitle -->
+  <em style="color:#9BE7FF">Building futuristic UIs, Learning C++ & DSA, and Learning cheeky coding content.</em>
+</p>
+
 <h3 align="center">B.Tech student in Robotics & AI | Aspiring Software Engineer | Interested in DSA, AI/ML, and Application Development</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif">
 
