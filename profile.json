@@ -1,0 +1,28 @@
+{
+  "github_username": "Aayush-Agarwal007",
+  "handle": "aayush",
+  "name": "Aayush Agarwal",
+  "tagline": "Software Engineer · C++ | Java | React | Python",
+
+  "now": { "role": "B.Tech Student", "where": "Robotics & AI" },
+  "creating": "Futuristic UIs, DSA & AI/ML projects",
+  "stack": ["C", "C++", "Python", "JavaScript", "Node.js", "Flutter", "Docker", "HTML"],
+  "highlights": [
+    "Learning Machine Learning, Java & Flutter",
+    "Solving DSA problems in C++ every day",
+    "Building futuristic UIs and apps"
+  ],
+
+  "headline": "B.Tech Robotics & AI · Aspiring Software Engineer",
+  "links": {
+    "email": "Aayushmittal9876@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/aayush-agarwal007/",
+    "x": "https://twitter.com/aayush7496",
+    "youtube": "",
+    "website": ""
+  },
+
+  "heatmap": { "total": 950, "seed": 29, "end_date": "" },
+  "portrait": { "crop": "" }
+}
